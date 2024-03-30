@@ -4,7 +4,8 @@ Mini projetcs:
 1. Breaking a video into frames and saving to drive
 2. Image converter mini project
 3. Screen recording using CV
-
+4. Perform task on the image using mouse events
+   
 Topics:
 1. Image loading and Processing
 2. Video write and read.ipynb
