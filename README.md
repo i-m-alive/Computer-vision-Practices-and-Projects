@@ -13,4 +13,5 @@ Topics:
 2. Video write and read.ipynb
 3. Video Capture using Phone camera.ipynb
 4. Binding mouse functions using cv
-5. Merge,split,size function ,Basic operations on i
+5. Merge,split,size function ,Basic operations on img
+6. Reigion of Interest
