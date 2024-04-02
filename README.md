@@ -7,6 +7,12 @@ Mini projetcs:
 4. Perform task on the image using mouse events
 5. Color Picker
 6. RGB value Extracter mini project
+7. Hand Gesture predictor
+   1. Data Collection
+   2. Model Training(CNN and Transfer Learning)
+   3. Hand Gesture predictor using OpenCV
+8. Pose Detection using OpenCV,Mediapipe,etc
+9. Face Detection using CV
    
 Topics:
 1. Image loading and Processing
